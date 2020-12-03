@@ -1,0 +1,16 @@
+{
+  "name": "budget-app",
+  "version": "1.0.0",
+  "description": "this is a web app to calculate your budget and spendings",
+  "main": "app.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "author": "Emmanuel Orololuwa Awolusi",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0"
+  }
+}
